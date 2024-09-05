@@ -1,6 +1,7 @@
 boas vindas ao meu perfil.
 
-**emanueleferreira**
+**emanuele ferreira**
+
 estou estudando no alura
 
 quero fazer arquitetura e ser uma pessoa bem sucedida.
@@ -15,4 +16,4 @@ entre em contato pelo (emanuele.ferreira.santos@escola.pr.br)
 
 ![](https://media1.tenor.com/m/It_uScpL9TQAAAAd/yurialberto.gif)
 
-![](
+![](https://media1.tenor.com/m/TrRx4BzPXhIAAAAd/neymar-jr.gif)
